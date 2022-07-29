@@ -37,3 +37,6 @@ ServoMotor.ChangeDutyCycle(7) # 7 = 90 degrees
 ServoMotor.stop() # Stop writing to the servo motor
 GPIO.cleanup()
 print("2 % better.")
+
+# Making a change
+print("Github detect")
